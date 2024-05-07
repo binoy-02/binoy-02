@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=binoy-02.binoy-02" />
+
 - 👋 Hi, I’m @binoy-02
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning MscCs Data Analytics 
