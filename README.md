@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m @binoy-02
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning MscCs Data Analytics 
+- 🌱 I’m pursuing my learning in MscCs Data Analytics 
 - 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me: "bnyjolly@gmail.com"
 - ⚡ Fun fact: Lazy but enthisiastic
